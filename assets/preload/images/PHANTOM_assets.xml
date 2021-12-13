@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PHANTOM_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="192" height="196"/>
+	<SubTexture name="A hold0000" x="250" y="404" width="50" height="44"/>
+	<SubTexture name="A tail0000" x="776" y="208" width="50" height="64"/>
+	<SubTexture name="B0000" x="192" y="0" width="184" height="180"/>
+	<SubTexture name="B hold0000" x="300" y="404" width="50" height="44"/>
+	<SubTexture name="B tail0000" x="826" y="208" width="50" height="64"/>
+	<SubTexture name="C0000" x="376" y="0" width="196" height="192"/>
+	<SubTexture name="C hold0000" x="350" y="404" width="50" height="44"/>
+	<SubTexture name="C tail0000" x="876" y="208" width="50" height="64"/>
+	<SubTexture name="D0000" x="572" y="0" width="186" height="190"/>
+	<SubTexture name="D hold0000" x="400" y="404" width="50" height="44"/>
+	<SubTexture name="D tail0000" x="926" y="208" width="50" height="64"/>
+	<SubTexture name="E0000" x="758" y="0" width="208" height="208"/>
+	<SubTexture name="E hold0000" x="450" y="404" width="50" height="44"/>
+	<SubTexture name="E tail0000" x="0" y="404" width="50" height="64"/>
+	<SubTexture name="F0000" x="0" y="208" width="192" height="196"/>
+	<SubTexture name="F hold0000" x="500" y="404" width="50" height="44"/>
+	<SubTexture name="F tail0000" x="50" y="404" width="50" height="64"/>
+	<SubTexture name="G0000" x="192" y="208" width="196" height="192"/>
+	<SubTexture name="G hold0000" x="550" y="404" width="50" height="44"/>
+	<SubTexture name="G tail0000" x="100" y="404" width="50" height="64"/>
+	<SubTexture name="H0000" x="388" y="208" width="196" height="192"/>
+	<SubTexture name="H hold0000" x="600" y="404" width="50" height="44"/>
+	<SubTexture name="H tail0000" x="150" y="404" width="50" height="64"/>
+	<SubTexture name="I0000" x="584" y="208" width="192" height="196"/>
+	<SubTexture name="I hold0000" x="650" y="404" width="50" height="44"/>
+	<SubTexture name="I tail0000" x="200" y="404" width="50" height="64"/>
+</TextureAtlas>

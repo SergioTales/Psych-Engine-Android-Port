@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STATIC_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="162" height="166"/>
+	<SubTexture name="A0001" x="162" y="0" width="162" height="166"/>
+	<SubTexture name="A0002" x="324" y="0" width="162" height="166"/>
+	<SubTexture name="A0003" x="486" y="0" width="162" height="166"/>
+	<SubTexture name="A0004" x="648" y="0" width="162" height="166"/>
+	<SubTexture name="A0005" x="810" y="0" width="162" height="166"/>
+	<SubTexture name="A0006" x="972" y="0" width="162" height="166"/>
+	<SubTexture name="A0007" x="1134" y="0" width="162" height="166"/>
+	<SubTexture name="A0008" x="1296" y="0" width="162" height="166"/>
+	<SubTexture name="A0009" x="1458" y="0" width="162" height="166"/>
+	<SubTexture name="A0010" x="1620" y="0" width="162" height="166"/>
+	<SubTexture name="A0011" x="1782" y="0" width="162" height="166"/>
+	<SubTexture name="A0012" x="0" y="166" width="162" height="166"/>
+	<SubTexture name="A0013" x="162" y="166" width="162" height="166"/>
+	<SubTexture name="A0014" x="324" y="166" width="162" height="166"/>
+	<SubTexture name="A0015" x="486" y="166" width="162" height="166"/>
+	<SubTexture name="A0016" x="648" y="166" width="162" height="166"/>
+	<SubTexture name="A0017" x="810" y="166" width="162" height="166"/>
+	<SubTexture name="A0018" x="972" y="166" width="162" height="166"/>
+	<SubTexture name="A0019" x="1134" y="166" width="162" height="166"/>
+	<SubTexture name="A hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="A hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="A tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="A tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="A tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="B0000" x="1296" y="166" width="166" height="162"/>
+	<SubTexture name="B0001" x="1462" y="166" width="166" height="162"/>
+	<SubTexture name="B0002" x="1628" y="166" width="166" height="162"/>
+	<SubTexture name="B0003" x="1794" y="166" width="166" height="162"/>
+	<SubTexture name="B0004" x="0" y="332" width="166" height="162"/>
+	<SubTexture name="B0005" x="166" y="332" width="166" height="162"/>
+	<SubTexture name="B0006" x="332" y="332" width="166" height="162"/>
+	<SubTexture name="B0007" x="498" y="332" width="166" height="162"/>
+	<SubTexture name="B0008" x="664" y="332" width="166" height="162"/>
+	<SubTexture name="B0009" x="830" y="332" width="166" height="162"/>
+	<SubTexture name="B0010" x="996" y="332" width="166" height="162"/>
+	<SubTexture name="B0011" x="1162" y="332" width="166" height="162"/>
+	<SubTexture name="B0012" x="1328" y="332" width="166" height="162"/>
+	<SubTexture name="B0013" x="1494" y="332" width="166" height="162"/>
+	<SubTexture name="B0014" x="1660" y="332" width="166" height="162"/>
+	<SubTexture name="B0015" x="1826" y="332" width="166" height="162"/>
+	<SubTexture name="B0016" x="0" y="494" width="166" height="162"/>
+	<SubTexture name="B0017" x="166" y="494" width="166" height="162"/>
+	<SubTexture name="B0018" x="332" y="494" width="166" height="162"/>
+	<SubTexture name="B0019" x="498" y="494" width="166" height="162"/>
+	<SubTexture name="B hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="B hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="B tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="B tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="B tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="C0000" x="664" y="494" width="166" height="162"/>
+	<SubTexture name="C0001" x="830" y="494" width="166" height="162"/>
+	<SubTexture name="C0002" x="996" y="494" width="166" height="162"/>
+	<SubTexture name="C0003" x="1162" y="494" width="166" height="162"/>
+	<SubTexture name="C0004" x="1328" y="494" width="166" height="162"/>
+	<SubTexture name="C0005" x="1494" y="494" width="166" height="162"/>
+	<SubTexture name="C0006" x="1660" y="494" width="166" height="162"/>
+	<SubTexture name="C0007" x="1826" y="494" width="166" height="162"/>
+	<SubTexture name="C0008" x="0" y="656" width="166" height="162"/>
+	<SubTexture name="C0009" x="166" y="656" width="166" height="162"/>
+	<SubTexture name="C0010" x="332" y="656" width="166" height="162"/>
+	<SubTexture name="C0011" x="498" y="656" width="166" height="162"/>
+	<SubTexture name="C0012" x="664" y="656" width="166" height="162"/>
+	<SubTexture name="C0013" x="830" y="656" width="166" height="162"/>
+	<SubTexture name="C0014" x="996" y="656" width="166" height="162"/>
+	<SubTexture name="C0015" x="1162" y="656" width="166" height="162"/>
+	<SubTexture name="C0016" x="1328" y="656" width="166" height="162"/>
+	<SubTexture name="C0017" x="1494" y="656" width="166" height="162"/>
+	<SubTexture name="C0018" x="1660" y="656" width="166" height="162"/>
+	<SubTexture name="C0019" x="1826" y="656" width="166" height="162"/>
+	<SubTexture name="C hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="C hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="C tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="C tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="C tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="D0000" x="0" y="818" width="162" height="166"/>
+	<SubTexture name="D0001" x="162" y="818" width="162" height="166"/>
+	<SubTexture name="D0002" x="324" y="818" width="162" height="166"/>
+	<SubTexture name="D0003" x="486" y="818" width="162" height="166"/>
+	<SubTexture name="D0004" x="648" y="818" width="162" height="166"/>
+	<SubTexture name="D0005" x="810" y="818" width="162" height="166"/>
+	<SubTexture name="D0006" x="972" y="818" width="162" height="166"/>
+	<SubTexture name="D0007" x="1134" y="818" width="162" height="166"/>
+	<SubTexture name="D0008" x="1296" y="818" width="162" height="166"/>
+	<SubTexture name="D0009" x="1458" y="818" width="162" height="166"/>
+	<SubTexture name="D0010" x="1620" y="818" width="162" height="166"/>
+	<SubTexture name="D0011" x="1782" y="818" width="162" height="166"/>
+	<SubTexture name="D0012" x="0" y="984" width="162" height="166"/>
+	<SubTexture name="D0013" x="162" y="984" width="162" height="166"/>
+	<SubTexture name="D0014" x="324" y="984" width="162" height="166"/>
+	<SubTexture name="D0015" x="486" y="984" width="162" height="166"/>
+	<SubTexture name="D0016" x="648" y="984" width="162" height="166"/>
+	<SubTexture name="D0017" x="810" y="984" width="162" height="166"/>
+	<SubTexture name="D0018" x="972" y="984" width="162" height="166"/>
+	<SubTexture name="D0019" x="1134" y="984" width="162" height="166"/>
+	<SubTexture name="D hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="D hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="D tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="D tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="D tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="E0000" x="1296" y="984" width="172" height="172"/>
+	<SubTexture name="E0001" x="1468" y="984" width="172" height="172"/>
+	<SubTexture name="E0002" x="1640" y="984" width="172" height="172"/>
+	<SubTexture name="E0003" x="1812" y="984" width="172" height="172"/>
+	<SubTexture name="E0004" x="0" y="1156" width="172" height="172"/>
+	<SubTexture name="E0005" x="172" y="1156" width="172" height="172"/>
+	<SubTexture name="E0006" x="344" y="1156" width="172" height="172"/>
+	<SubTexture name="E0007" x="516" y="1156" width="172" height="172"/>
+	<SubTexture name="E0008" x="688" y="1156" width="172" height="172"/>
+	<SubTexture name="E0009" x="860" y="1156" width="172" height="172"/>
+	<SubTexture name="E0010" x="1032" y="1156" width="172" height="172"/>
+	<SubTexture name="E0011" x="1204" y="1156" width="172" height="172"/>
+	<SubTexture name="E0012" x="688" y="1156" width="172" height="172"/>
+	<SubTexture name="E0013" x="1376" y="1156" width="172" height="172"/>
+	<SubTexture name="E0014" x="1548" y="1156" width="172" height="172"/>
+	<SubTexture name="E0015" x="1720" y="1156" width="172" height="172"/>
+	<SubTexture name="E0016" x="0" y="1328" width="172" height="172"/>
+	<SubTexture name="E0017" x="172" y="1328" width="172" height="172"/>
+	<SubTexture name="E0018" x="344" y="1328" width="172" height="172"/>
+	<SubTexture name="E0019" x="516" y="1328" width="172" height="172"/>
+	<SubTexture name="E0020" x="688" y="1328" width="172" height="172"/>
+	<SubTexture name="E0021" x="860" y="1328" width="172" height="172"/>
+	<SubTexture name="E hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="E hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="E tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="E tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="E tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="F0000" x="0" y="0" width="162" height="166"/>
+	<SubTexture name="F0001" x="162" y="0" width="162" height="166"/>
+	<SubTexture name="F0002" x="324" y="0" width="162" height="166"/>
+	<SubTexture name="F0003" x="486" y="0" width="162" height="166"/>
+	<SubTexture name="F0004" x="648" y="0" width="162" height="166"/>
+	<SubTexture name="F0005" x="810" y="0" width="162" height="166"/>
+	<SubTexture name="F0006" x="972" y="0" width="162" height="166"/>
+	<SubTexture name="F0007" x="1134" y="0" width="162" height="166"/>
+	<SubTexture name="F0008" x="1296" y="0" width="162" height="166"/>
+	<SubTexture name="F0009" x="1458" y="0" width="162" height="166"/>
+	<SubTexture name="F0010" x="1620" y="0" width="162" height="166"/>
+	<SubTexture name="F0011" x="1782" y="0" width="162" height="166"/>
+	<SubTexture name="F0012" x="0" y="166" width="162" height="166"/>
+	<SubTexture name="F0013" x="162" y="166" width="162" height="166"/>
+	<SubTexture name="F0014" x="324" y="166" width="162" height="166"/>
+	<SubTexture name="F0015" x="486" y="166" width="162" height="166"/>
+	<SubTexture name="F0016" x="648" y="166" width="162" height="166"/>
+	<SubTexture name="F0017" x="810" y="166" width="162" height="166"/>
+	<SubTexture name="F0018" x="972" y="166" width="162" height="166"/>
+	<SubTexture name="F0019" x="1134" y="166" width="162" height="166"/>
+	<SubTexture name="F hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="F hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="F tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="F tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="F tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="G0000" x="1296" y="166" width="166" height="162"/>
+	<SubTexture name="G0001" x="1462" y="166" width="166" height="162"/>
+	<SubTexture name="G0002" x="1628" y="166" width="166" height="162"/>
+	<SubTexture name="G0003" x="1794" y="166" width="166" height="162"/>
+	<SubTexture name="G0004" x="0" y="332" width="166" height="162"/>
+	<SubTexture name="G0005" x="166" y="332" width="166" height="162"/>
+	<SubTexture name="G0006" x="332" y="332" width="166" height="162"/>
+	<SubTexture name="G0007" x="498" y="332" width="166" height="162"/>
+	<SubTexture name="G0008" x="664" y="332" width="166" height="162"/>
+	<SubTexture name="G0009" x="830" y="332" width="166" height="162"/>
+	<SubTexture name="G0010" x="996" y="332" width="166" height="162"/>
+	<SubTexture name="G0011" x="1162" y="332" width="166" height="162"/>
+	<SubTexture name="G0012" x="1328" y="332" width="166" height="162"/>
+	<SubTexture name="G0013" x="1494" y="332" width="166" height="162"/>
+	<SubTexture name="G0014" x="1660" y="332" width="166" height="162"/>
+	<SubTexture name="G0015" x="1826" y="332" width="166" height="162"/>
+	<SubTexture name="G0016" x="0" y="494" width="166" height="162"/>
+	<SubTexture name="G0017" x="166" y="494" width="166" height="162"/>
+	<SubTexture name="G0018" x="332" y="494" width="166" height="162"/>
+	<SubTexture name="G0019" x="498" y="494" width="166" height="162"/>
+	<SubTexture name="G hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="G hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="G tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="G tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="G tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="H0000" x="664" y="494" width="166" height="162"/>
+	<SubTexture name="H0001" x="830" y="494" width="166" height="162"/>
+	<SubTexture name="H0002" x="996" y="494" width="166" height="162"/>
+	<SubTexture name="H0003" x="1162" y="494" width="166" height="162"/>
+	<SubTexture name="H0004" x="1328" y="494" width="166" height="162"/>
+	<SubTexture name="H0005" x="1494" y="494" width="166" height="162"/>
+	<SubTexture name="H0006" x="1660" y="494" width="166" height="162"/>
+	<SubTexture name="H0007" x="1826" y="494" width="166" height="162"/>
+	<SubTexture name="H0008" x="0" y="656" width="166" height="162"/>
+	<SubTexture name="H0009" x="166" y="656" width="166" height="162"/>
+	<SubTexture name="H0010" x="332" y="656" width="166" height="162"/>
+	<SubTexture name="H0011" x="498" y="656" width="166" height="162"/>
+	<SubTexture name="H0012" x="664" y="656" width="166" height="162"/>
+	<SubTexture name="H0013" x="830" y="656" width="166" height="162"/>
+	<SubTexture name="H0014" x="996" y="656" width="166" height="162"/>
+	<SubTexture name="H0015" x="1162" y="656" width="166" height="162"/>
+	<SubTexture name="H0016" x="1328" y="656" width="166" height="162"/>
+	<SubTexture name="H0017" x="1494" y="656" width="166" height="162"/>
+	<SubTexture name="H0018" x="1660" y="656" width="166" height="162"/>
+	<SubTexture name="H0019" x="1826" y="656" width="166" height="162"/>
+	<SubTexture name="H hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="H hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="H tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="H tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="H tail0019" x="901" y="1500" width="53" height="67"/>
+	<SubTexture name="I0000" x="0" y="818" width="162" height="166"/>
+	<SubTexture name="I0001" x="162" y="818" width="162" height="166"/>
+	<SubTexture name="I0002" x="324" y="818" width="162" height="166"/>
+	<SubTexture name="I0003" x="486" y="818" width="162" height="166"/>
+	<SubTexture name="I0004" x="648" y="818" width="162" height="166"/>
+	<SubTexture name="I0005" x="810" y="818" width="162" height="166"/>
+	<SubTexture name="I0006" x="972" y="818" width="162" height="166"/>
+	<SubTexture name="I0007" x="1134" y="818" width="162" height="166"/>
+	<SubTexture name="I0008" x="1296" y="818" width="162" height="166"/>
+	<SubTexture name="I0009" x="1458" y="818" width="162" height="166"/>
+	<SubTexture name="I0010" x="1620" y="818" width="162" height="166"/>
+	<SubTexture name="I0011" x="1782" y="818" width="162" height="166"/>
+	<SubTexture name="I0012" x="0" y="984" width="162" height="166"/>
+	<SubTexture name="I0013" x="162" y="984" width="162" height="166"/>
+	<SubTexture name="I0014" x="324" y="984" width="162" height="166"/>
+	<SubTexture name="I0015" x="486" y="984" width="162" height="166"/>
+	<SubTexture name="I0016" x="648" y="984" width="162" height="166"/>
+	<SubTexture name="I0017" x="810" y="984" width="162" height="166"/>
+	<SubTexture name="I0018" x="972" y="984" width="162" height="166"/>
+	<SubTexture name="I0019" x="1134" y="984" width="162" height="166"/>
+	<SubTexture name="I hold0000" x="1032" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0001" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0002" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0003" x="1194" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0004" x="1248" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0005" x="1302" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0006" x="1356" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0007" x="1410" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0008" x="1464" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0009" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0010" x="1572" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0011" x="1518" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0012" x="1626" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0013" x="1680" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0014" x="1734" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0015" x="1788" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0016" x="1842" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0017" x="1086" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0018" x="1140" y="1328" width="54" height="46"/>
+	<SubTexture name="I hold0019" x="1896" y="1328" width="54" height="46"/>
+	<SubTexture name="I tail0000" x="1950" y="1328" width="53" height="67"/>
+	<SubTexture name="I tail0001" x="0" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0002" x="53" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0003" x="106" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0004" x="159" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0005" x="212" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0006" x="265" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0007" x="318" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0008" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0009" x="424" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0010" x="477" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0011" x="530" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0012" x="371" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0013" x="583" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0014" x="636" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0015" x="689" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0016" x="742" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0017" x="795" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0018" x="848" y="1500" width="53" height="67"/>
+	<SubTexture name="I tail0019" x="901" y="1500" width="53" height="67"/>
+</TextureAtlas>
